@@ -1,0 +1,11 @@
+Harmonic Oscillators
+
+V(x) = (1/2)*m*(omega^2)*(x^2)
+
+E(n) = (h bar)*(omega)*(n+(1/2))
+E(0) = (1/2)*(h bar)*(omega)
+
+psi(0, x) = A*(e^(-(x^2)/(alpha^2))
+psi(1, x) = B*x*(e^(-(x^2)/(alpha^2))
+
+E(n+1) - E(n) = (h bar)*(omega)

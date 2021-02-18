@@ -1,0 +1,15 @@
+Orthogonality - integral 0 to L of psi star m (x) psi n (x) dx = 0 for all m not equal to n. If m is equal to n, the value of integral is 1. Physically, if the particle is in the mth state, the particle cannot be in the nth state and hence the dot product is zero.
+Orthonormality - the combined function creating the Kronecker Delta Fn
+Orthonormality holds for any eigenfunction for any operator in any quantum mechanical system (The system being the same in a given case).
+
+Completeness - any fn f(x) that is zero outside x=0 and x=L can be written as the linear combo of the eigenfns of energy. Cn is the contribution of a particular psi n (x) to that f(x). Cn is obtained by taking the integral from 0 to L of (psi star n (x) * f(x)) dx. This needn't be a stationery state.
+
+Bound state - Quantum particles confined to a region where E < V(outside). Allowed energies are always discrete and not continuous. The wavefns in such regions are oscillatory.
+
+Physical meaning of superposition - Let us have psi (x, 0) = (1/root(2))(psi 1 (x) + psi 4 (x)). If in 100 boxes, the psi is given as psi(x, 0) in all of them, if a measurement of energy is done in the 100 boxes, in 50 boxes, we get the value to E1 and in the other 50 we get it as E4. Here the avg value of energy will be (E1 + E4)/2.
+
+Expectation value of an operator is the eigenvalue of an eigenfunction.
+
+Collapsing of wavefn - We say that, once measured, the superposition collapses into that pure state. That means that if we measure at any later time after measuring as E4 at t = 0, energy remains E4 and psi(x, t) will become psi 4 (x) which is normalised. The reason behind this is the Copenhagen interpretation. Once measured, we cannot say anything about t<0.
+
+In superposed state, the probability density will oscillate with omega = (E4 - E1)/(h bar). And we see radiations coming out. Once we measure, the radiations stop.
